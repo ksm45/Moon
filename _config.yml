@@ -1,7 +1,7 @@
 # Site
 title:              Mani
-bio:                'Data Scientist.'
-description:        "Data Scientist."
+bio:                'Data Scientist'
+description:        "Data Scientist"
 reading_time:       true
 words_per_minute:   200
 logo:               'assets/img/me.jpg'
